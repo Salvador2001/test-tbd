@@ -66,6 +66,7 @@
     <Build Include="00.Creacion\00.CreacionDB.sql" />
     <Build Include="00.Creacion\01.Tablas.sql" />
     <Build Include="00.Creacion\02.Insercion de datos.sql" />
+    <Build Include="00.Creacion\03.Ejemplo llave foranea.sql" />
     <Build Include="00.Creacion\Consultas.sql" />
   </ItemGroup>
   <Target Name="BeforeBuild">
